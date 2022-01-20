@@ -12,6 +12,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=8.0.0",
+        "booosta/installer": "dev-master",
         "booosta/tabcontainer": "dev-master",
         "booosta/ui_datepicker": "dev-master",
         "booosta/imagefile": "dev-master",
