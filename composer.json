@@ -1,0 +1,35 @@
+{
+    "name": "booosta/webapp-package",
+    "description": "Webapp install meta package the Booosta PHP Framework. Do not install this manually! Install booosta/installer",
+    "license": "LGPL-3.0-only",
+    "type": "package",
+    "authors": [
+        {
+            "name": "Peter Buzanits",
+            "email": "peter@icb.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=8.0.0",
+        "booosta/tabcontainer": "dev-master",
+        "booosta/ui_datepicker": "dev-master",
+        "booosta/imagefile": "dev-master",
+        "booosta/uploadfiles": "dev-master",
+        "booosta/cache_session": "dev-master",
+        "booosta/cache_db": "dev-master",
+        "booosta/bs_modal": "dev-master",
+        "booosta/email": "dev-master",
+        "booosta/ui_select": "dev-master",
+        "booosta/ui_modal": "dev-master",
+        "booosta/menu": "dev-master",
+        "booosta/ajax": "dev-master",
+        "booosta/formchecker": "dev-master",
+        "booosta/aes256": "dev-master",
+        "booosta/datatable": "dev-master",
+        "booosta/mkfiles": "dev-master",
+        "booosta/formelements": "dev-master",
+        "booosta/jquery": "dev-master",
+        "booosta/dataobjects": "dev-master"
+    }
+}
